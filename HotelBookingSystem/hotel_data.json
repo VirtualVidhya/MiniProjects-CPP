@@ -1,0 +1,20 @@
+[
+    {
+        "number": 101,
+        "occupantName": "",
+        "price": 2000,
+        "roomType": "Single"
+    },
+    {
+        "number": 102,
+        "occupantName": "",
+        "price": 3500,
+        "roomType": "Double"
+    },
+    {
+        "number": 103,
+        "occupantName": "",
+        "price": 5000,
+        "roomType": "Suite"
+    }
+]
